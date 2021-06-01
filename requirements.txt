@@ -13,5 +13,5 @@ requests==2.8.1
 simplejson==3.8.1
 six==1.10.0
 streamparse==2.1.3
-urllib3==1.12
+urllib3==1.26.5
 wheel==0.24.0
